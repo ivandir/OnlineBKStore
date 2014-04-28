@@ -1,0 +1,33 @@
+INSERT INTO `onlinebookstore`.`item` (ID,year,language,title) VALUES ('B00364K6YW',2010,'English','Pride and Prejudice (Restored Edition)');
+INSERT INTO `onlinebookstore`.`item` (ID,year,language,title) VALUES ('1453837736',2010,'English','Pride And Prejudice [Paperback]');
+INSERT INTO `onlinebookstore`.`item` (ID,year,language,title) VALUES ('0440245915',2009,'English','A Time to Kill: A Novel');
+INSERT INTO `onlinebookstore`.`item` (ID,year,language,title) VALUES ('B0019NG7GI',2009,'English, French, Spanish, German, Italian, Portuguese','A Time to Kill');
+INSERT INTO `onlinebookstore`.`item` (ID,year,language,title) VALUES ('0061743526',2010,'English','To Kill a Mockingbird: 50th Anniversary Edition');
+INSERT INTO `onlinebookstore`.`item` (ID,year,language,title) VALUES ('0783225857',1998,'English, French','To Kill a Mockingbird (Collector`s Edition)');
+INSERT INTO `onlinebookstore`.`item` (ID,year,language,title) VALUES ('B000MGB6N2',2009,'English, French , Spanish','The Silence of the Lambs');
+INSERT INTO `onlinebookstore`.`item` (ID,year,language,title) VALUES ('0312195265',1998,'English','The Silence of the Lambs (Hannibal Lecter)');
+INSERT INTO `onlinebookstore`.`item` (ID,year,language,title) VALUES ('0307387178',2007,'English','Into the Wild');
+INSERT INTO `onlinebookstore`.`item` (ID,year,language,title) VALUES ('B001GMH8SI',2008,'English','Into the Wild');
+INSERT INTO `onlinebookstore`.`item` (ID,year,language,title) VALUES ('B003TT2X6I',2010,'English, Spanish','The Lord of the Rings: The Fellowship of the Ring');
+INSERT INTO `onlinebookstore`.`item` (ID,year,language,title) VALUES ('B003TT2X6S',2010,'English, Spanish','The Lord of the Rings: The Return of the King');
+INSERT INTO `onlinebookstore`.`item` (ID,year,language,title) VALUES ('0618002251',1999,'English','The Hobbit and The Lord of the Rings');
+INSERT INTO `onlinebookstore`.`item` (ID,year,language,title) VALUES ('0307474275',2009,'English','The Da Vinci Code');
+INSERT INTO `onlinebookstore`.`item` (ID,year,language,title) VALUES ('B000I2J2XG',2009,'English, French','The Da Vinci Code (Two-Disc Extended Cut + BD Live)');
+INSERT INTO `onlinebookstore`.`item` (ID,year,language,title) VALUES ('B002O5M4SU',2009,'English, French','Angels & Demons');
+INSERT INTO `onlinebookstore`.`item` (ID,year,language,title) VALUES ('0425240339',2010,'English','The Hunt for Red October');
+INSERT INTO `onlinebookstore`.`item` (ID,year,language,title) VALUES ('B001AII4SQ',2008,'English','The Hunt for Red October');
+INSERT INTO `onlinebookstore`.`item` (ID,year,language,title) VALUES ('B00003CXUY',2001,'English','Along Came a Spider');
+INSERT INTO `onlinebookstore`.`item` (ID,year,language,title) VALUES ('0446692638',2003,'English','Along Came a Spider');
+INSERT INTO `onlinebookstore`.`item` (ID,year,language,title) VALUES ('Z000I2J2XG',2009,'English,French','The Da Vinci Code (Two-Disc Extended Cut + BD Live)');
+INSERT INTO `onlinebookstore`.`item` (ID,year,language,title) VALUES ('Z000MGB6N2',2009,'English,French , Spanish','The Silence of the Lambs');
+INSERT INTO `onlinebookstore`.`item` (ID,year,language,title) VALUES ('Z0019NG7GI',2009,'English,French, Spanish, German, Italian, Portuguese','A Time to Kill');
+INSERT INTO `onlinebookstore`.`item` (ID,year,language,title) VALUES ('Z001AII4SQ',2008,'English','The Hunt for Red October');
+INSERT INTO `onlinebookstore`.`item` (ID,year,language,title) VALUES ('Z001GMH8SI',2008,'English','Into the Wild');
+INSERT INTO `onlinebookstore`.`item` (ID,year,language,title) VALUES ('Z002O5M4SU',2009,'English,French','Angels & Demons');
+INSERT INTO `onlinebookstore`.`item` (ID,year,language,title) VALUES ('Z00364K6YW',2010,'English','Pride and Prejudice (Restored Edition)');
+INSERT INTO `onlinebookstore`.`item` (ID,year,language,title) VALUES ('Z003TT2X6I',2010,'English,Spanish','The Lord of the Rings: The Fellowship of the Ring');
+INSERT INTO `onlinebookstore`.`item` (ID,year,language,title) VALUES ('Z003TT2X6S',2010,'English,Spanish','The Lord of the Rings: The Return of the King');
+INSERT INTO `onlinebookstore`.`item` (ID,year,language,title) VALUES ('Z783225857', 1998, 'English, French', 'To Kill a Mockingbird (Collector`s Edition)');
+INSERT INTO `onlinebookstore`.`item` (ID,year,language,title) VALUES ('Z00003CXUY', 2001, 'English', 'Along Came a Spider');
+
+

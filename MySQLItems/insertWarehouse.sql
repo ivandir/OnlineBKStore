@@ -1,0 +1,3 @@
+INSERT INTO `onlinebookstore`.`warehouse` (`code`, `address`, `phone`) VALUES ('NYC', '3504 Junction Boulevard, NY 11368-1743', '(718) 429-2119');
+INSERT INTO `onlinebookstore`.`warehouse` (`code`, `address`, `phone`) VALUES ('PHL', '801 South Columbus Boulevard, Philadelphia, PA 19147-4314', '(215) 468-5936');
+INSERT INTO `onlinebookstore`.`warehouse` (`code`, `address`, `phone`) VALUES ('MOR', '5 Willow Pt, Moorestown, NJ 08057-4000', '(856) 764-8600');
